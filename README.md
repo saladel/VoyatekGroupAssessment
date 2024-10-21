@@ -58,6 +58,17 @@ You can run Hebron Plants on iOS 16.5 or later, iPadOS 15.5 and macOS 12.4 or la
 6. Press the play button!
 
 ## NOTICE BOARD
+#### Endpoints
+- GET all trips endpoint:
+  `https://saladel.free.beeceptor.com/my-trip`,
+  `https://tripps.free.beeceptor.com/my-trip`
+
+- POST create trip endpoint:
+  `https://saladel.free.beeceptor.com/create-trip`,
+  `https://tripps.free.beeceptor.com/create-trip`
+
+---
+
 - After Cloning the project, Go to `ViewModel -> CreateTripViewModel` comment the following line
 ```swift
 let postEndpoint = "https://tripps.free.beeceptor.com/create-trip 
