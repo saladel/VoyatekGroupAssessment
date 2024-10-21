@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>top-level-items</key>
+	<array>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>0</string>
+					<key>EndingLineNumber</key>
+					<string>42</string>
+					<key>StartingColumnNumber</key>
+					<string>0</string>
+					<key>StartingLineNumber</key>
+					<string>41</string>
+					<key>Timestamp</key>
+					<string>751064773.822258</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>GoPaddi/Components/DropDown/DropDownMenu.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>                Text(selectedOption == nil ? placeholder : selectedOption!.option)
+</string>
+				<key>leading</key>
+				<string>        }) {
+            HStack {
+</string>
+				<key>trailing</key>
+				<string>                    .designSystemTypography(designSysTypSelection, color: selectedOption == nil ? textClr : .gpBlack)
+                    //.foregroundColor(selectedOption == nil ? colorTheme.gpGray2.opacity(0.5) : textClr)
+                
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+		<dict>
+			<key>destination</key>
+			<dict>
+				<key>location-parameters</key>
+				<dict>
+					<key>EndingColumnNumber</key>
+					<string>23</string>
+					<key>EndingLineNumber</key>
+					<string>65</string>
+					<key>StartingColumnNumber</key>
+					<string>19</string>
+					<key>StartingLineNumber</key>
+					<string>65</string>
+					<key>Timestamp</key>
+					<string>750890533.266225</string>
+				</dict>
+				<key>rebasable-url</key>
+				<dict>
+					<key>base</key>
+					<string>workspace</string>
+					<key>payload</key>
+					<dict>
+						<key>relative-path</key>
+						<string>GoPaddi/Views/StartView.swift</string>
+					</dict>
+				</dict>
+			</dict>
+			<key>text-context</key>
+			<dict>
+				<key>focused</key>
+				<string>TODO</string>
+				<key>leading</key>
+				<string>                    .padding(.top, 14)
+                
+                // </string>
+				<key>trailing</key>
+				<string>: Fix this
+                    DropdownMenu(
+                        selectedOption: .constant(nil),
+</string>
+			</dict>
+			<key>type</key>
+			<string>bookmark</string>
+		</dict>
+	</array>
+</dict>
+</plist>
